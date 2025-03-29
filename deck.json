@@ -649,6 +649,252 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "5540345c-0cc7-11f0-88d6-551dadb65488",
+                    "deck_config_uuid": "a5a294b2-0c59-11f0-ac95-153054c72674",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Circle.png",
+                        "Cone.png",
+                        "Cylinder.png",
+                        "Sector.png",
+                        "Sphere.png",
+                        "Triangle-411db64c739e6ca0b50dbb025146fe3aa35e2dca.png",
+                        "TrigTriangle.png"
+                    ],
+                    "name": "Reference Stuff",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"Triangle-411db64c739e6ca0b50dbb025146fe3aa35e2dca.png\" style=\"float: right;\">(\\(A\\))rea of a triangle (terms of&nbsp;\\(b, h\\)&nbsp;&amp;&nbsp;\\(a, b, \\theta\\))",
+                                "\\[A=\\frac{1}{2}bh=\\frac{1}{2}ab\\cdot\\sin\\theta\\]<br>"
+                            ],
+                            "guid": "pe!>G}>QOz",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"Circle.png\" style=\"float: right;\">(\\(A\\))rea&nbsp;and (\\(C\\))ircumference&nbsp;of a circle (in terms of&nbsp;\\(r\\))",
+                                "\\[A=\\pi r^{2}\\]\\[C=2\\pi r\\]<br>"
+                            ],
+                            "guid": "oeZX,LG}fI",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"Sector.png\" style=\"float: right;\">(\\(A\\))rea and arc length (\\(s\\)) of a sector of a circle (in terms of&nbsp;\\(r, \\theta\\))",
+                                "\\[A=\\frac{1}{2}r^{2}\\theta\\]\\[s=r\\theta\\]<br>"
+                            ],
+                            "guid": "n8%=Q_|8Ka",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"Sphere.png\" style=\"float: right;\">(\\(V\\))olume and (\\(A\\))rea of a sphere (in terms of&nbsp;\\(r\\))",
+                                "\\[V=\\frac{4}{3}\\pi r^{3}\\]\\[A=4\\pi r^{2}\\]<br>"
+                            ],
+                            "guid": "KH!(JD:weA",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"Cylinder.png\" style=\"float: right;\">(\\(V\\))olume of a cylinder (in terms of&nbsp;\\(r, h\\))",
+                                "\\[V=\\pi r^{2}h\\]<br>"
+                            ],
+                            "guid": "lEh2Z%eXmd",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"Cone.png\" style=\"float: right;\">(\\(V\\))olume and surface (\\(A\\))rea of a cone (in terms of&nbsp;\\(r, h\\))",
+                                "\\[V=\\frac{1}{3}\\pi r^{2}h\\]\\[A=\\pi r\\left(\\sqrt{r^{2}+h^{2}}+r\\right)\\]"
+                            ],
+                            "guid": "rD*Iqey+fG",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\sin^{2}\\theta+\\cos^{2}\\theta=?\\]",
+                                "\\[1\\]<br>"
+                            ],
+                            "guid": "B]1w!Ns[::",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[1+\\tan^{2}\\theta=?\\]",
+                                "\\[\\sec^{2}\\theta\\]<br>"
+                            ],
+                            "guid": "dKmT_|D[Jr",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\sin\\left(-\\theta\\right), \\cos\\left(-\\theta\\right), \\tan\\left(-\\theta\\right)=?\\]<br><br><br>",
+                                "\\[-\\sin\\theta, -\\cos\\theta, -\\tan\\theta\\]<br>"
+                            ],
+                            "guid": "ME!-Qo$}59",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\sin\\left(\\frac{\\pi}{2}-\\theta\\right)=?\\]<br>",
+                                "\\[\\cos\\theta\\]<br>"
+                            ],
+                            "guid": "qJb+;//T7j",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\cos\\left(\\frac{\\pi}{2}-\\theta\\right)=?\\]<br>",
+                                "\\[\\sin\\theta\\]<br>"
+                            ],
+                            "guid": "bv)~y`G+o!",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\tan\\left(\\frac{\\pi}{2}-\\theta\\right)=?\\]<br>",
+                                "\\[\\cot\\theta\\]<br>"
+                            ],
+                            "guid": "E</b~fc_J-",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"TrigTriangle.png\" style=\"float: right;\">Law of Sines",
+                                "\\[\\frac{\\sin A}{a}=\\frac{\\sin B}{b}=\\frac{\\sin C}{c}\\]<br>"
+                            ],
+                            "guid": "xFUCso}{pC",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"TrigTriangle.png\" style=\"float: right;\">The Law of Cosines",
+                                "\\[a^{2}=b^{2}+c^{2}-2bc\\cos A\\]<div style=\"text-align: center;\"><i><span style=\"color: rgb(183, 183, 183);\">note: can be derived to all other versions (sub for&nbsp;</span></i>\\(b^2\\)<i><span style=\"color: rgb(183, 183, 183);\">&nbsp;and&nbsp;</span></i>\\(c^2\\)<i><span style=\"color: rgb(183, 183, 183);\">).</span></i></div>"
+                            ],
+                            "guid": "zy{vQT_h1R",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\sin\\left(x\\pm y\\right)=?\\]<br>",
+                                "\\[\\sin x\\cos y\\pm\\cos x\\sin y\\]<br>"
+                            ],
+                            "guid": "L]FwdF,ggV",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\cos\\left(x\\pm y\\right)=?\\]<br>",
+                                "\\[\\cos x\\cos y∓\\sin x\\sin y\\]<br>"
+                            ],
+                            "guid": "gB=mzEM&D<",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\tan\\left(x\\pm y\\right)=?\\]<br>",
+                                "\\[\\frac{\\tan x\\pm\\tan y}{1∓\\tan x\\tan y}\\]<br>"
+                            ],
+                            "guid": "JUB@X|B`%{",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\sin2x=?\\]<br>",
+                                "\\[2\\sin x\\cos x\\]<br>"
+                            ],
+                            "guid": "K*;AhCC.+&",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\cos2x=?\\]<br>",
+                                "\\[\\cos^{2}x-\\sin^{2}x\\](use pythagorean identity to derive into&nbsp;\\(2\\cos^{2}x-1\\)&nbsp;and&nbsp;\\(1-2\\sin^{2}x\\))<br>"
+                            ],
+                            "guid": "e^fpc)-uf^",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\[\\tan2x=?\\]<br>",
+                                "\\[\\frac{2\\tan x}{1-\\tan^{2}x}\\]<br>"
+                            ],
+                            "guid": "wV)jWKxcCp",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div style=\"text-align: center;\">Half angle formula</div>\\[\\sin^{2}x=?\\]",
+                                "\\[\\frac{1-\\cos2x}{2}\\]<br>"
+                            ],
+                            "guid": "RbVnZMs0XA",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div style=\"text-align: center;\">Half angle formula</div>\\[\\cos^{2}x=?\\]",
+                                "\\[\\frac{1+\\cos2x}{2}\\]<br>"
+                            ],
+                            "guid": "r(nPnSkm]o",
+                            "note_model_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "a5a2944e-0c59-11f0-ac95-153054c72674",
                     "deck_config_uuid": "a5a294b2-0c59-11f0-ac95-153054c72674",
                     "desc": "",
@@ -877,6 +1123,73 @@
                     "name": "Card 2",
                     "ord": 1,
                     "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "55403e66-0cc7-11f0-88d6-551dadb65488",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 3083384302358417073,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7940388524925231864,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 7374280333522184078,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
                 }
             ],
             "type": 0
