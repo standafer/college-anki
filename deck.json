@@ -1,0 +1,888 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "a5a264b0-0c59-11f0-ac95-153054c72674",
+                    "deck_config_uuid": "a5a294b2-0c59-11f0-ac95-153054c72674",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Oxidation States",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Copper",
+                                "+ (Cuprous) / 2+ (Cupric) "
+                            ],
+                            "guid": "LX1O}*)ZAm",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Iron",
+                                "2+ (Ferrous) / 3+ (Ferric) "
+                            ],
+                            "guid": "itD/?QZDHv",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Tin",
+                                "2+ (Stannous) / 4+ (Stannic) "
+                            ],
+                            "guid": "cbx:hUM)V>",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Chromium",
+                                "2+ (Chromous) / 3+ (Chromic) "
+                            ],
+                            "guid": "ut@~2ApxJ?",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Manganese",
+                                "2+ (Manganous) / 3+ (Manganic) "
+                            ],
+                            "guid": "Ogu6,N?N~t",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mercury (monoatomic)",
+                                "2+ (Mercurous) "
+                            ],
+                            "guid": "cR=;hPi?3D",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mercury (diatomic)",
+                                "2+ (Mecuric) 1+ for each mercury"
+                            ],
+                            "guid": "KBS)%g$Pl3",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lead",
+                                "2+ (Plumbous) / 4+ (Plumbic) "
+                            ],
+                            "guid": "Oqc!rq}(>H",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cobalt",
+                                "2+ (Cobaltous) / 3+ (Cobaltic) "
+                            ],
+                            "guid": "KTCp^+]DA}",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nickel",
+                                "2+ (Nickelous) / 3+ (Nickelic) "
+                            ],
+                            "guid": "AQ#2C]A$u^",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gold",
+                                "+ (Aurous) / 3+ (Auric) "
+                            ],
+                            "guid": "Djl&.[g*8=",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "a5a27022-0c59-11f0-ac95-153054c72674",
+                    "deck_config_uuid": "a5a294b2-0c59-11f0-ac95-153054c72674",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 15,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Polyatomic Ions",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{NH4^+}\\)",
+                                "Ammonium ion"
+                            ],
+                            "guid": "f`>6+%@6ft",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{C6H5COO^-}\\)",
+                                "Benzonate"
+                            ],
+                            "guid": "qL#w`XAd:Q",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{SCN^-}\\)",
+                                "Thiocyanate"
+                            ],
+                            "guid": "B~_o[::2:X",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{CH3COO^-}\\)",
+                                "Acetate"
+                            ],
+                            "guid": "P2XS(p60q?",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{SO4^2-}\\)",
+                                "Sulfate"
+                            ],
+                            "guid": "O+|,Wsu_xJ",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{SO3^2-}\\)",
+                                "Sulfite"
+                            ],
+                            "guid": "J]TY_0|tYO",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{C2O4^2-}\\)",
+                                "Oxalate"
+                            ],
+                            "guid": "z$7_lQuY0{",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{S2O3^2-}\\)",
+                                "Thiosulfate"
+                            ],
+                            "guid": "f[W}VFCJ<b",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{HPO4^2-}\\)",
+                                "Hydrogen phosphate"
+                            ],
+                            "guid": "m:%MQzs-b$",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{CrO4^2-}\\)",
+                                "Chromate (yellow)"
+                            ],
+                            "guid": "Q13du+S&Z?",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{Cr2O7^2-}\\)",
+                                "Dichromate (orange)"
+                            ],
+                            "guid": "B*f%*Ui/YQ",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{PO4^3-}\\)",
+                                "Phosphate"
+                            ],
+                            "guid": "J4,mE|sKqq",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{PO3^3-}\\)",
+                                "Phosphite"
+                            ],
+                            "guid": "in)YnM[&Q(",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{AsO4^3-}\\)",
+                                "Arsenate"
+                            ],
+                            "guid": "H=(Gnbf[Xq",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{BO3^3-}\\)",
+                                "Borate"
+                            ],
+                            "guid": "yBQY4-@>n.",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{C6H5O7^3-}\\)",
+                                "Citrate"
+                            ],
+                            "guid": "zV1Cxwpb^9",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{O2^2-}\\)",
+                                "Peroxide (-1 for each O)"
+                            ],
+                            "guid": "ggAu}lF~W4",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{OH^-}\\)",
+                                "Hydroxide"
+                            ],
+                            "guid": "tn,@QFU{2;",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{NO3^-}\\)",
+                                "Nitrate"
+                            ],
+                            "guid": "cb[F;g}q;o",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{NO2^-}\\)",
+                                "Nitrite"
+                            ],
+                            "guid": "svBT`=8,Q#",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{CN^-}\\)",
+                                "Cyanide"
+                            ],
+                            "guid": "P]?ATiQ*QJ",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{MnO4^-}\\)",
+                                "Permanganate (purple)"
+                            ],
+                            "guid": "KFTJn1G;}Y",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{HCO3^-}\\)",
+                                "Hydrogen carbonate, Bicarbonate"
+                            ],
+                            "guid": "yl7&d_k//_",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{CO3^2-}\\)",
+                                "Carbonate"
+                            ],
+                            "guid": "Obt=&AQF8F",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{HSO4^-}\\)",
+                                "Hydrogen sulfate (bisulfate)"
+                            ],
+                            "guid": "JBH^=FaI(7",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{HSO3^-}\\)",
+                                "Hydrogen sulfite (bisulfite)"
+                            ],
+                            "guid": "t07/GWS>Lu",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\ce{H2PO4^-}\\)",
+                                "Dihydrogen phosphate"
+                            ],
+                            "guid": "ESaQNMF]]@",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                }
+            ],
+            "crowdanki_uuid": "a5a26122-0c59-11f0-ac95-153054c72674",
+            "deck_config_uuid": "a5a294b2-0c59-11f0-ac95-153054c72674",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "[DVC] Gen Chem I",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "a5a285b2-0c59-11f0-ac95-153054c72674",
+                    "deck_config_uuid": "a5a294b2-0c59-11f0-ac95-153054c72674",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 20,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Derivs",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\frac{d}{dx}\\left(\\sin x\\right)\\)",
+                                "\\(\\cos x\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "IQm`PYe>z|",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\frac{d}{dx}\\left(\\cos x\\right)\\)",
+                                "\\(-\\sin x\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "s}#wP5|e;3",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\frac{d}{dx}\\left(\\tan x\\right)\\)",
+                                "\\(\\sec^{2}x\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "B.[xC,6zHE",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\frac{d}{dx}\\left(\\csc x\\right)\\)",
+                                "\\(-\\csc\\left(x\\right)\\cot\\left(x\\right)\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "i|8`M@:{xc",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\frac{d}{dx}\\left(\\sec x\\right)\\)",
+                                "\\(\\sec\\left(x\\right)\\tan\\left(x\\right)\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "o#*_%;I70+",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\\( \\frac{d}{dx}\\left(\\cot x\\right) \\)</div>",
+                                "\\(-\\csc^{2}x\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "n}&EbY&wZb",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\( \\frac{d}{dx}\\left(\\arcsin x\\right) \\)",
+                                "\\(\\frac{u'}{\\sqrt{1-u^{2}}}\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "zy<(Nck!,.",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\( \\frac{d}{dx}\\left(\\arccos x\\right) \\)",
+                                "\\(-\\frac{u'}{\\sqrt{1-u^{2}}}\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "mPpzZ~zhW[",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\( \\frac{d}{dx}\\left(\\arctan x\\right) \\)",
+                                "\\(\\frac{u'}{1+u^{2}}\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "d36x0!WhB<",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\require{physics}\\)<br>\\(\\frac{d}{dx}\\left(\\arccsc x\\right) \\)",
+                                "\\(-\\frac{u'}{\\left|u\\right|\\sqrt{u^{2}-1}}\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "wd0^|EA=.q",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\\(\\require{physics}\\)\\( \\frac{d}{dx}\\left(\\arcsec x\\right) \\)</div>",
+                                "<div>\\(\\require{physics}\\)\\(\\frac{u'}{\\left|u\\right|\\sqrt{u^{2}-1}}\\) is the d/dx of _</div>"
+                            ],
+                            "guid": "P5pL908w$-",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\\(\\require{physics}\\)\\( \\frac{d}{dx}\\left(\\arccot x\\right) \\)</div>",
+                                "\\(-\\frac{u'}{1+u^{2}}\\)&nbsp;is the d/dx of _"
+                            ],
+                            "guid": "Ez72c&nOkg",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\require{physics}\\)\\( \\frac{d}{dx}\\left(\\ln\\left(x\\right)\\right) \\)",
+                                "\\(\\require{physics}\\)\\(\\frac{1}{x}\\) is the d/dx of _"
+                            ],
+                            "guid": "QDp%bftiL)",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\require{physics}\\)\\( \\frac{d}{dx}\\left(\\log_{a}\\left(x\\right)\\right) \\)",
+                                "\\(\\require{physics}\\)\\(\\frac{1}{x\\ln\\left(a\\right)}\\) is the d/dx of _"
+                            ],
+                            "guid": "PI^(f:^DjN",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "\\(\\require{physics}\\)\\( \\frac{d}{dx}\\left(\\ln\\left(f\\left(x\\right)\\right)\\right) \\)",
+                                "\\(\\require{physics}\\)\\(\\frac{f'\\left(x\\right)}{f\\left(x\\right)}\\) is the d/dx of _"
+                            ],
+                            "guid": "B{9QN=)&R$",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\\(\\require{physics}\\)\\( \\frac{d}{dx}\\left(e^{x}\\right) \\)</div>",
+                                "<div>\\(\\require{physics}\\)\\(e^{x}\\) is the d/dx of _</div>"
+                            ],
+                            "guid": "MFb@D>Tb==",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\\(\\require{physics}\\)\\( \\frac{d}{dx}\\left(a^{x}\\right) \\)</div>",
+                                "<div>\\(\\require{physics}\\)\\(a^{x}\\ln\\left(a\\right)\\) is the d/dx of _</div>"
+                            ],
+                            "guid": "Bo.5D_!^`^",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\\(\\require{physics}\\)\\( \\frac{d}{dx}\\left(\\log_{a}\\left(f\\left(x\\right)\\right)\\right) \\)</div>",
+                                "<div>\\(\\require{physics}\\)\\(\\frac{f'\\left(x\\right)}{\\ln a\\cdot f\\left(x\\right)}\\) is the d/dx of _</div>"
+                            ],
+                            "guid": "Jf{ii|D;{a",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>\\(\\require{physics}\\)\\( \\frac{d}{dx}\\left(\\sqrt{x}\\right) \\)</div>",
+                                "<div>\\(\\require{physics}\\)\\(\\frac{u'}{2\\sqrt{u}}\\) is the d/dx of _</div>"
+                            ],
+                            "guid": "NgNn#]LWn,",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "a5a2944e-0c59-11f0-ac95-153054c72674",
+                    "deck_config_uuid": "a5a294b2-0c59-11f0-ac95-153054c72674",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Rules",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Power Rule",
+                                "\\(\\require{physics}\\)\\(\\frac{d}{dx}\\left(x^{n}\\right)=n\\cdot x^{n-1}\\)<br><br><br>Example:\\(\\frac{d}{dx}\\left(x^{3}\\right)=3x^{2}\\)"
+                            ],
+                            "guid": "E&9{7bTY@k",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Product Rule",
+                                "\\(\\require{physics}\\)\\(\\frac{d}{dx}\\left(f\\left(x\\right)\\cdot g\\left(x\\right)\\right)=g\\left(x\\right)f'\\left(x\\right)+f\\left(x\\right)g'\\left(x\\right)\\)<br><br><br>Example:\\(\\frac{d}{dx}\\left(\\sin x\\cdot x\\right)=\\left(x\\right)\\left(\\cos x\\right)+\\left(\\sin x\\right)\\left(1\\right)\\)"
+                            ],
+                            "guid": "kbX`9I#5W1",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Quotient Rule",
+                                "\\(\\require{physics}\\)\\(\\frac{d}{dx}\\left(\\frac{f\\left(x\\right)}{g\\left(x\\right)}\\right)=\\frac{g\\left(x\\right)f'\\left(x\\right)-f\\left(x\\right)g'\\left(x\\right)}{\\left[g\\left(x\\right)\\right]^{2}}\\)<br><br><br>Example:\\(\\frac{d}{dx}\\left(\\frac{x}{\\cos x}\\right)=\\frac{\\cos x\\cdot1-x\\cdot\\left(-\\sin x\\right)}{\\cos^{2}x}\\)"
+                            ],
+                            "guid": "yf@^>}^Py7",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Chain Rule",
+                                "\\(\\require{physics}\\)\\(\\frac{d}{dx}\\left[f\\left(g\\left(x\\right)\\right)\\right]=f'\\left(g\\left(x\\right)\\right)\\cdot g'\\left(x\\right)\\)<br><br><br>Example:\\(\\frac{d}{dx}\\left[\\sin\\left(x^{2}\\right)\\right]=\\cos\\left(x^{2}\\right)\\cdot2x\\)"
+                            ],
+                            "guid": "p(VzRuo:JO",
+                            "note_model_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                }
+            ],
+            "crowdanki_uuid": "a5a281fc-0c59-11f0-ac95-153054c72674",
+            "deck_config_uuid": "a5a294b2-0c59-11f0-ac95-153054c72674",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "[SCC] Calc I",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "a5a257ae-0c59-11f0-ac95-153054c72674",
+    "deck_config_uuid": "a5a294b2-0c59-11f0-ac95-153054c72674",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "a5a294b2-0c59-11f0-ac95-153054c72674",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "college-anki",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a5a2697e-0c59-11f0-ac95-153054c72674",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 2987625137989551832,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4730499091951132622,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 1336304016827083624,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -2363014857297095951,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
